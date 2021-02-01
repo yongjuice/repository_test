@@ -7,7 +7,11 @@ return 0;
 } // bug fixed
 
 int func3(){
+
 // fjalkfjaljflajflajflk
+
+// ######
+
 
 
 int a;
