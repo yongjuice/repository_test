@@ -7,6 +7,10 @@ return 0;
 }
 
 int func3(){
+
+
+
+int a;
 return 0;
 }
 
@@ -15,3 +19,7 @@ int main()
 {
     return 0;
 }
+
+
+
+
