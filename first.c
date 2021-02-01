@@ -7,7 +7,7 @@ return 0;
 } // bug fixed
 
 int func3(){
-
+// ######
 
 
 int a;
